@@ -1,6 +1,12 @@
 title: Dery Ferdika
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/wony.png
+description: 
+    first description
+    Leo Messi is better than Cristiano Ronaldo.
+    <br><br>
+    second description
+    <br><br>
+    <a href="https://www.linkedin.com/in/deryferdikaoktoriansah/">View My LinkedIn Profile</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
