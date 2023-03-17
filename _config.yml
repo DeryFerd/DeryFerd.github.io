@@ -1,15 +1,18 @@
 title: Dery Ferdika
 logo: "/Images/dery.jpg?raw=true"
 description: 
-    first description
-    <br><br>
-    Hi, my name is Dery.
-    <br><br>
-    second description
-    <br><br>
-    <a href="https://www.linkedin.com/in/deryferdikaoktoriansah/">View My LinkedIn Profile</a>
-    <br><br>
-    <a href="pdf/CV Dery.pdf">View My Resume</a>
+  <p align="center">
+  <a href="pdf/CV Dery.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/deryferdikaoktoriansah/">LinkedIn</a> |
+  <a href="https://github.com/DeryFerd">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Business Analytics at Simon Business School, University of Rochester.
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
