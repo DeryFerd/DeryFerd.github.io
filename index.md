@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Topic 3&4 Python
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1_RH6WAcKVGuTZSAic4cz18jyuGfxaRBf#scrollTo=KYUBmL7oRhl9)
 
